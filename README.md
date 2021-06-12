@@ -1,4 +1,4 @@
-<h1 align="center">Lucas</h1>
+<h1 align="center">Lucas Aymon</h1>
 <h4 align="center">I'm currently a software developer apprentice.</h4>
 
 <br>
