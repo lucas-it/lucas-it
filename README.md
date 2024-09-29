@@ -11,8 +11,10 @@
     <img src="https://img.shields.io/badge/php-8387BC?style=for-the-badge&logo=php&logoColor=white" alt="php" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/react-20232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/react_native-20232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="reactnative" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Spring%20Boot-6CB52D?style=for-the-badge&logo=springboot&logoColor=white" alt="springboot" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/shell_script-121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/PostgreSQL-6497C0?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/gitlab-FFFFFF?style=for-the-badge&logo=gitlab" alt="gitlab" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />&nbsp;&nbsp;
