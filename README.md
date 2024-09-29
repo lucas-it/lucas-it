@@ -30,5 +30,5 @@
 <h3 align="center">My GitHub statistics</h3>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=lucas-it&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=lucas-it&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=dark"/>
 </p>
